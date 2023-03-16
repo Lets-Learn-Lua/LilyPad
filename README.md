@@ -27,4 +27,4 @@ FLAGS
 ```
 
 ## Name
-I chose LilyPad because my whole GitHub has a "swampy" theme going on. LilyPads are also the backbone/support for a lot of wildlife in swamps. So LilyPad in this case is the backbone of your Roblox Studio workflow!
+I chose LilyPad because my whole GitHub has a "swampy" theme going on. LilyPads are also the backbone/support for a lot of wildlife in swamps. So, LilyPad in this case is the backbone of your Roblox Studio workflow!
