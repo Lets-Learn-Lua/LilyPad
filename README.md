@@ -4,7 +4,7 @@ It pairs best with Rojo, as it specifically searches the `./src` directory for `
 Rojo then takes these compiled `.lua` files and syncs them into Roblox Studio. Boom! You can now program Roblox games with a language other than Lua!
 
 ## Features
-* Automatically watches all `.fnl` files in the `./src` directory for changes
+* Automatically watches all `.fnl` files in the `./src` directory and tracks for changes
 * Automatically compiles files when they are changed
 
 ## Install
