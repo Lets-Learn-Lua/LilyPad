@@ -14,7 +14,6 @@ Roblox Studio
 COMMANDS
     start       :Watches the all the Fennel files in ./src and compiles them to Lua.
                  Places compiled files in the same directory as the target file.
-                 Starts Rojo to begin syncing compiled Lua files to Roblox Studio.
 FLAGS
     --version   :Shows the current build version of lilypad.
     --help      :Shows this help text.
@@ -94,7 +93,7 @@ local function watchFiles()
 end
 
 -- Main
-ARGUMENT_FUNCTIONS["--start"] = function()
+ARGUMENT_FUNCTIONS.start = function()
 	print("Performing intial compiles...")
 	coroutine.wrap(watchFiles)()
 end
