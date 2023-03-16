@@ -9,7 +9,7 @@ Rojo then takes these compiled `.lua` files and syncs them into Roblox Studio. B
 
 ## Install
 ### Releases
-Simply grab the executable from the releases section and place it in your PATH or wherever you'd like!
+Simply grab the executable from the [releases](https://github.com/Jamtoad/LilyPad/releases) section and place it in your PATH or wherever you'd like!
 
 ## Usage
 ```lua
